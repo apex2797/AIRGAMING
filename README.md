@@ -1,4 +1,5 @@
 # AIRGAMING
+## by Siraj
 Using only your hand, you can play a racing game or any movement games. <br/>
 
 
@@ -17,5 +18,4 @@ Right<br/>
 
 Back<br/>
 ![back](https://user-images.githubusercontent.com/33369364/122674295-1c2e0180-d1f2-11eb-839d-cf01c630bc36.png)
-
-
+## Manipulate all the Key bindings in script
